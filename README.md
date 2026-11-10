@@ -7,7 +7,7 @@ Built using **Microsoft SQL Server**.
 ## Team Members
 
 - Judy
-- Junior
+- Joneer Emad
 - Mina Elia
 - Mina Samy
 - George
