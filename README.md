@@ -6,12 +6,12 @@ Built using **Microsoft SQL Server**.
 
 ## Team Members
 
-- Azmy Ayman Azmy
+- Judy
+- Junior
 - Mina Elia
 - Mina Samy
 - George
-- Junior
-- Judy
+- Azmy Ayman
 
 ## Database Structure
 
